@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my skills in HTML, CSS, and Javascript. 
 - 🌱 I’m currently enrolled in the B.S. Software Development from Western Governors' University. 
