@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on building my skills in HTML, CSS, and Javascript. 
+- 🔭 I’m currently working on building my skills in HTML, CSS, and Javascript. I also am trying to decide between learning Java or C#. 
 - 🌱 I’m currently enrolled in the B.S. in Software Development from Western Governors' University. 
 - 👯 I’m looking to collaborate on - not sure yet. I think I need to build up my skills more before I start working with others. I am still very new to coding.
 - 🤔 I’m looking for help with the best way to learn more advanced techniques with HTML, CSS, and Javascript. 
